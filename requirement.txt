@@ -1,0 +1,3 @@
+open-cv
+scikit-learn
+pywin32
